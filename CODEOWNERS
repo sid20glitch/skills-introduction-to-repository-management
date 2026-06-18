@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sid20glitch
+/src/backend/database.py      @sid20glitch
+/src/backend/routers/auth.py  @sid20glitch
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sid20glitch
